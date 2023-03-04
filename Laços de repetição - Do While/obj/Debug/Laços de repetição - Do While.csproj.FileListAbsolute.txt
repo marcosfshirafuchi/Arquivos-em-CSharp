@@ -1,0 +1,6 @@
+C:\Users\famil\source\repos\Laços de repetição - Do While\bin\Debug\Laços de repetição - Do While.exe.config
+C:\Users\famil\source\repos\Laços de repetição - Do While\bin\Debug\Laços de repetição - Do While.exe
+C:\Users\famil\source\repos\Laços de repetição - Do While\bin\Debug\Laços de repetição - Do While.pdb
+C:\Users\famil\source\repos\Laços de repetição - Do While\obj\Debug\Laços de repetição - Do While.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\Laços de repetição - Do While\obj\Debug\Laços de repetição - Do While.exe
+C:\Users\famil\source\repos\Laços de repetição - Do While\obj\Debug\Laços de repetição - Do While.pdb

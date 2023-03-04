@@ -1,0 +1,6 @@
+C:\Users\famil\source\repos\Leitura de arquivo e soma dos dados\bin\Debug\Leitura de arquivo e soma dos dados.exe.config
+C:\Users\famil\source\repos\Leitura de arquivo e soma dos dados\bin\Debug\Leitura de arquivo e soma dos dados.exe
+C:\Users\famil\source\repos\Leitura de arquivo e soma dos dados\bin\Debug\Leitura de arquivo e soma dos dados.pdb
+C:\Users\famil\source\repos\Leitura de arquivo e soma dos dados\obj\Debug\Leitura de arquivo e soma dos dados.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\Leitura de arquivo e soma dos dados\obj\Debug\Leitura de arquivo e soma dos dados.exe
+C:\Users\famil\source\repos\Leitura de arquivo e soma dos dados\obj\Debug\Leitura de arquivo e soma dos dados.pdb

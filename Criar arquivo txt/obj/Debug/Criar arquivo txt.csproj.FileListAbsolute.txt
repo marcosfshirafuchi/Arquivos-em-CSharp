@@ -1,0 +1,7 @@
+C:\Users\famil\source\repos\Criar arquivo txt\bin\Debug\Criar arquivo txt.exe.config
+C:\Users\famil\source\repos\Criar arquivo txt\bin\Debug\Criar arquivo txt.exe
+C:\Users\famil\source\repos\Criar arquivo txt\bin\Debug\Criar arquivo txt.pdb
+C:\Users\famil\source\repos\Criar arquivo txt\obj\Debug\Criar arquivo txt.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\Criar arquivo txt\obj\Debug\Criar arquivo txt.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\Criar arquivo txt\obj\Debug\Criar arquivo txt.exe
+C:\Users\famil\source\repos\Criar arquivo txt\obj\Debug\Criar arquivo txt.pdb

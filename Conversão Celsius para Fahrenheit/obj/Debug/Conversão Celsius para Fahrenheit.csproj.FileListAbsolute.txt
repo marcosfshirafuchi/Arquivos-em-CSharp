@@ -1,0 +1,7 @@
+C:\Users\famil\source\repos\Conversão Celsius para Fahrenheit\bin\Debug\Conversão Celsius para Fahrenheit.exe.config
+C:\Users\famil\source\repos\Conversão Celsius para Fahrenheit\bin\Debug\Conversão Celsius para Fahrenheit.exe
+C:\Users\famil\source\repos\Conversão Celsius para Fahrenheit\bin\Debug\Conversão Celsius para Fahrenheit.pdb
+C:\Users\famil\source\repos\Conversão Celsius para Fahrenheit\obj\Debug\Conversão Celsius para Fahrenheit.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\Conversão Celsius para Fahrenheit\obj\Debug\Conversão Celsius para Fahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\Conversão Celsius para Fahrenheit\obj\Debug\Conversão Celsius para Fahrenheit.exe
+C:\Users\famil\source\repos\Conversão Celsius para Fahrenheit\obj\Debug\Conversão Celsius para Fahrenheit.pdb

@@ -1,0 +1,6 @@
+C:\Users\famil\source\repos\Prova - Exercicio 04\bin\Debug\Prova - Exercicio 04.exe.config
+C:\Users\famil\source\repos\Prova - Exercicio 04\bin\Debug\Prova - Exercicio 04.exe
+C:\Users\famil\source\repos\Prova - Exercicio 04\bin\Debug\Prova - Exercicio 04.pdb
+C:\Users\famil\source\repos\Prova - Exercicio 04\obj\Debug\Prova - Exercicio 04.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\Prova - Exercicio 04\obj\Debug\Prova - Exercicio 04.exe
+C:\Users\famil\source\repos\Prova - Exercicio 04\obj\Debug\Prova - Exercicio 04.pdb

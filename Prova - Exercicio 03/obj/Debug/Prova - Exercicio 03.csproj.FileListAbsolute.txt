@@ -1,0 +1,7 @@
+C:\Users\famil\source\repos\Prova - Exercicio 03\bin\Debug\Prova - Exercicio 03.exe.config
+C:\Users\famil\source\repos\Prova - Exercicio 03\bin\Debug\Prova - Exercicio 03.exe
+C:\Users\famil\source\repos\Prova - Exercicio 03\bin\Debug\Prova - Exercicio 03.pdb
+C:\Users\famil\source\repos\Prova - Exercicio 03\obj\Debug\Prova - Exercicio 03.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\Prova - Exercicio 03\obj\Debug\Prova - Exercicio 03.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\Prova - Exercicio 03\obj\Debug\Prova - Exercicio 03.exe
+C:\Users\famil\source\repos\Prova - Exercicio 03\obj\Debug\Prova - Exercicio 03.pdb

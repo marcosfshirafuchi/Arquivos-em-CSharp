@@ -1,0 +1,6 @@
+C:\Users\famil\source\repos\Votação\bin\Debug\Votação.exe.config
+C:\Users\famil\source\repos\Votação\bin\Debug\Votação.exe
+C:\Users\famil\source\repos\Votação\bin\Debug\Votação.pdb
+C:\Users\famil\source\repos\Votação\obj\Debug\Votação.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\Votação\obj\Debug\Votação.exe
+C:\Users\famil\source\repos\Votação\obj\Debug\Votação.pdb

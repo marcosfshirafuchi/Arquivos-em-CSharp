@@ -1,0 +1,7 @@
+C:\Users\famil\source\repos\Verificação de Login\bin\Debug\Verificação de Login.exe.config
+C:\Users\famil\source\repos\Verificação de Login\bin\Debug\Verificação de Login.exe
+C:\Users\famil\source\repos\Verificação de Login\bin\Debug\Verificação de Login.pdb
+C:\Users\famil\source\repos\Verificação de Login\obj\Debug\Verificação de Login.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\Verificação de Login\obj\Debug\Verificação de Login.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\Verificação de Login\obj\Debug\Verificação de Login.exe
+C:\Users\famil\source\repos\Verificação de Login\obj\Debug\Verificação de Login.pdb

@@ -1,0 +1,7 @@
+C:\Users\famil\source\repos\Area da circunferencia\bin\Debug\Area da circunferencia.exe.config
+C:\Users\famil\source\repos\Area da circunferencia\bin\Debug\Area da circunferencia.exe
+C:\Users\famil\source\repos\Area da circunferencia\bin\Debug\Area da circunferencia.pdb
+C:\Users\famil\source\repos\Area da circunferencia\obj\Debug\Area da circunferencia.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\Area da circunferencia\obj\Debug\Area da circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\Area da circunferencia\obj\Debug\Area da circunferencia.exe
+C:\Users\famil\source\repos\Area da circunferencia\obj\Debug\Area da circunferencia.pdb

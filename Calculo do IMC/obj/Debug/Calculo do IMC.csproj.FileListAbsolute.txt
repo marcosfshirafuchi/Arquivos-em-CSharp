@@ -1,0 +1,7 @@
+C:\Users\famil\source\repos\Calculo do IMC\bin\Debug\Calculo do IMC.exe.config
+C:\Users\famil\source\repos\Calculo do IMC\bin\Debug\Calculo do IMC.exe
+C:\Users\famil\source\repos\Calculo do IMC\bin\Debug\Calculo do IMC.pdb
+C:\Users\famil\source\repos\Calculo do IMC\obj\Debug\Calculo do IMC.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\Calculo do IMC\obj\Debug\Calculo do IMC.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\Calculo do IMC\obj\Debug\Calculo do IMC.exe
+C:\Users\famil\source\repos\Calculo do IMC\obj\Debug\Calculo do IMC.pdb

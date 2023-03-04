@@ -1,0 +1,7 @@
+C:\Users\famil\source\repos\Dia da Semana\bin\Debug\Dia da Semana.exe.config
+C:\Users\famil\source\repos\Dia da Semana\bin\Debug\Dia da Semana.exe
+C:\Users\famil\source\repos\Dia da Semana\bin\Debug\Dia da Semana.pdb
+C:\Users\famil\source\repos\Dia da Semana\obj\Debug\Dia da Semana.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\Dia da Semana\obj\Debug\Dia da Semana.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\Dia da Semana\obj\Debug\Dia da Semana.exe
+C:\Users\famil\source\repos\Dia da Semana\obj\Debug\Dia da Semana.pdb

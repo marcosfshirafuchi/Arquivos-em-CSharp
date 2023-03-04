@@ -1,0 +1,7 @@
+C:\Users\famil\source\repos\Laço de repetição - For\bin\Debug\Laço de repetição - For.exe.config
+C:\Users\famil\source\repos\Laço de repetição - For\bin\Debug\Laço de repetição - For.exe
+C:\Users\famil\source\repos\Laço de repetição - For\bin\Debug\Laço de repetição - For.pdb
+C:\Users\famil\source\repos\Laço de repetição - For\obj\Debug\Laço de repetição - For.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\Laço de repetição - For\obj\Debug\Laço de repetição - For.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\Laço de repetição - For\obj\Debug\Laço de repetição - For.exe
+C:\Users\famil\source\repos\Laço de repetição - For\obj\Debug\Laço de repetição - For.pdb

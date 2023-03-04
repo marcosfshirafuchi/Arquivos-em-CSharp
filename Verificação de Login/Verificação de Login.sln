@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Verificação de Login", "Verificação de Login.csproj", "{D9D578DF-9F04-4ABA-B723-56E2D64B527F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9D578DF-9F04-4ABA-B723-56E2D64B527F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9D578DF-9F04-4ABA-B723-56E2D64B527F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9D578DF-9F04-4ABA-B723-56E2D64B527F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9D578DF-9F04-4ABA-B723-56E2D64B527F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82523449-C025-42FC-BB0D-B664F1C45FFE}
+	EndGlobalSection
+EndGlobal

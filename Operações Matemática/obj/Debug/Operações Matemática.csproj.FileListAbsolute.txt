@@ -1,0 +1,7 @@
+C:\Users\famil\source\repos\Operações Matemática\obj\Debug\Operações Matemática.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\Operações Matemática\bin\Debug\Operações Matemática.exe.config
+C:\Users\famil\source\repos\Operações Matemática\bin\Debug\Operações Matemática.exe
+C:\Users\famil\source\repos\Operações Matemática\bin\Debug\Operações Matemática.pdb
+C:\Users\famil\source\repos\Operações Matemática\obj\Debug\Operações Matemática.exe
+C:\Users\famil\source\repos\Operações Matemática\obj\Debug\Operações Matemática.pdb
+C:\Users\famil\source\repos\Operações Matemática\obj\Debug\Operações Matemática.csproj.AssemblyReference.cache

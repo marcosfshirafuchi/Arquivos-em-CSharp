@@ -1,0 +1,6 @@
+C:\Users\famil\source\repos\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\famil\source\repos\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\famil\source\repos\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\famil\source\repos\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\famil\source\repos\Calculadora\obj\Debug\Calculadora.pdb
